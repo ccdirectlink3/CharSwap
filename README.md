@@ -1,5 +1,5 @@
 # CharSwap
-A Mod for Crosscode
+A Mod for Crosscode. Play as previously unplayable characters.
 
 ## Installation
 This mod requires the CCLoader Mod for Crosscode found [here](https://github.com/CCDirectLink/CCLoader)
