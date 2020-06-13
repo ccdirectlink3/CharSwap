@@ -1,11 +1,11 @@
 {
-	"name": "Character Swap",
-	"version": "1.0.0",
-	"description": "Play as a variety of characters previously unavailable.",
-	"plugin": "mod.js",
-	"module": false,
-	"ccmodDependencies": {
-        "crosscode": "^1.2.0",
-        "ccloader": "^2.14.3"
-	}
+  "name": "character-swap",
+  "ccmodHumanName": "Character Swap",
+  "version": "1.0.0",
+  "description": "Play as a variety of characters previously unavailable",
+  "module": true,
+  "plugin": "plugin.js",
+  "ccmodDependencies": {
+    "crosscode": "^1.2.0"
+  }
 }
