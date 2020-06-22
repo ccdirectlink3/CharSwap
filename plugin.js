@@ -16,7 +16,7 @@ export default class CharSwapMod {
     ]);
   }
 
-  main() {
+  poststart() {
     ig.input.bind(ig.KEY.ALT, 'swap_char');
     for (const name of sc.PARTY_OPTIONS) {
       const binding = this.keymap.get(name);
